@@ -14,6 +14,14 @@ colorPalettes = {
 		purple = "AF38CD",
 		grey = "3F3F3F"
 	},
+	['Purple'] = {
+		red = "d400ff",
+		yellow = "b300ff",
+		green = "ea00ff",
+		blue = "4800ff",
+		purple = "7700ff",
+		grey = "470094"
+	},
 	['Graphite'] = {
 		red = "FF6666",
 		yellow = "FFBC57",
